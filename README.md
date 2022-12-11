@@ -1,5 +1,7 @@
 # CW BLE Keyboard
 
+## Summary
+
 本プロジェクトはBLEキーボードとして機能する１キーのモールス符号デコーダーです。
 スケッチはM5StickCを使って動作させていますが、M5Unifiedライブラリを使用していますので、入力ピンの設定を変更すれば他のM5Stackシリーズでも動作します。
 
@@ -24,7 +26,25 @@ The PC will recognize it as a Bluetooth keyboard named "CW-Keyboard".
 
 ![Pairing](https://user-images.githubusercontent.com/13660495/206889008-5ec49743-a46a-4575-bf12-8d215be76d71.png)
 
-
+## Actual Operation
 
 https://user-images.githubusercontent.com/13660495/206889086-9dff52f5-0117-41d5-aa47-e9632d1e677c.mov
 
+## Reference
+
+以下のサイトの情報を参考にさせていただきました。
+
+Information from the following websites was used as a reference.
+
+### M5Unified
+https://github.com/m5stack/M5Unified 
+
+### CW Decorder
+https://monoist.itmedia.co.jp/mn/articles/2211/24/news020_2.html
+https://github.com/imaoca/OneKey
+
+### Morse Code
+https://en.wikipedia.org/wiki/Morse_code
+
+### NimBLE Keyboard
+https://github.com/wakwak-koba/ESP32-NimBLE-Keyboard
