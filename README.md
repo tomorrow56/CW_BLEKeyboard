@@ -2,10 +2,10 @@
 
 ## Summary
 
-本プロジェクトはBLEキーボードとして機能する１キーのモールス符号デコーダーです。
+本プロジェクトはBluetoothキーボードとして機能する１キーのモールス符号デコーダーです。
 スケッチはM5StickCを使って動作させていますが、M5Unifiedライブラリを使用していますので、入力ピンの設定を変更すれば他のM5Stackシリーズでも動作します。
 
-This project is a one-key Morse code(CW) decoder that functions as a BLE keyboard.
+This project is a one-key Morse code(CW) decoder that functions as a Bluetooth keyboard.
 The sketch is made to work with M5StickC. It uses the M5Unified library, so it will work with other M5Stack series by changing the input pin settings.
 
 キーボードとして接続する前は、左上のマークが赤くなります。
