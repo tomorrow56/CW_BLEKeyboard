@@ -8,15 +8,15 @@
 This project is a one-key Morse code(CW) decoder that functions as a Bluetooth keyboard.
 The sketch is made to work with M5StickC. It uses the M5Unified library, so it will work with other M5Stack series by changing the input pin settings.
 
-キーボードとして接続する前は、左上のマークが赤くなります。
+キーボードとして接続する前は、右上のマークが赤くなります。
 
-Before connecting as a keyboard, the symbol in the upper left corner turns red.
+Before connecting as a keyboard, the indicator in the upper right corner turns red.
 
 ![no-connect](https://user-images.githubusercontent.com/13660495/206889213-c73abf8c-c0b1-4310-a6d9-9d3fbc643325.jpg)
 
-キーボードとして接続すると、右上のマークが緑になります。
+キーボードとして接続すると、こののマークが緑になります。
 
-When connected as a keyboard, the symbol in the upper right corner turns green.
+When connected as a keyboard, this indicator turns green.
 
 ![connected](https://user-images.githubusercontent.com/13660495/206889583-3d1ca39f-69c7-4e30-8aa4-d7930b1f6a67.jpg)
 
