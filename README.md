@@ -14,7 +14,7 @@ Before connecting as a keyboard, the indicator in the upper right corner turns r
 
 ![no-connect](https://user-images.githubusercontent.com/13660495/206889213-c73abf8c-c0b1-4310-a6d9-9d3fbc643325.jpg)
 
-キーボードとして接続すると、こののマークが緑になります。
+キーボードとして接続すると、このマークが緑になります。
 
 When connected as a keyboard, this indicator turns green.
 
